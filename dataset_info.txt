@@ -1,0 +1,1 @@
+The dataset consists of text entries, each labeled with a corresponding sentiment. These entries are business-related news snippets covering aspects such as company performance, production shifts, sales trends, and profitability. Each snippet is assigned a sentiment classification—neutral, positive, or negative—based on its content.
